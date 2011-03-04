@@ -13,7 +13,7 @@ class Lolem
   def words n
     words = []
     word = ''
-    for i in 0..n
+    (0...n).each do
       word = @generator.get word
       words << word
     end
