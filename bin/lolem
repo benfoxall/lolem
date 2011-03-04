@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+
+require 'rubygems'
+require 'lolem'
+
+lolem = Lolem.new
+
+words = ARGV.length > 0 ? ARGV[0].to_i : 30
+
+puts lolem.words words
+
