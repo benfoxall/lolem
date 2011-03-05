@@ -2,11 +2,10 @@
 # not very efficient, but works for what we need it for
 class Generator
   
-  def initialize start = ''
+  def initialize
     # hash with a default value of another
     # hash with a default value of zero
     @map = Hash.new {|h,k| h[k] = Hash.new 0}
-    @last = start
   end
 
 
@@ -26,6 +25,8 @@ class Generator
     @map[given].each do |k,v|
       return k if (index -= v) < 0
     end
+    
+    nil # back to the start
 
   end
 

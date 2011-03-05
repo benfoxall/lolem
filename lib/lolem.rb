@@ -12,10 +12,9 @@ class Lolem
   
   def words n
     words = []
-    word = ''
     (0...n).each do
-      word = @generator.get word
-      words << word
+      @word = @generator.get @word
+      words << @word
     end
 
     words.join ' '
