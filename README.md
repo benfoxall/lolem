@@ -1,4 +1,4 @@
-LOL_em Ipsum_
+LOLem Ipsum
 =============
 
 Random latin text getting you down?  Put on your lollerskates and install this gem (LOLZ).
