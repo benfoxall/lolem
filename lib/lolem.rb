@@ -24,9 +24,9 @@ class Lolem
     Lolem ipsum loller sit amet, consectetur adipisicing elit, 
     sed do eiusmod tempor incididunt ut lolerskates et dolore magna 
     aliqua. Ut enim lol ad minim veniam, quis nostrud exercitation 
-    ullamco. Lol-athon nisi ut aliquip ex ea commodo consequat. 
+    ullamco. Lol-athon nisi ut lollergram ex ea commodo consequat. 
     Duis aute irure loller in reprehenderit in voluptate velit 
-    esse cillum dolore eu fugiat nulla pariatur. Lolburger sint 
+    esse cillum dololler eu fugiat nulla pariatur. Lolburger sint 
     occaecat cupidatat non proident, sunt in lolcano qui officia 
     deserunt mollit lolz anim id est laborum.
   END
@@ -34,5 +34,5 @@ class Lolem
   
 end
 
-#l = Lolem.new
-#puts l.words(30).inspect
+# lolz = Lolem.new
+# puts lolz.words(50)
