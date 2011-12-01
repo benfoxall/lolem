@@ -26,7 +26,7 @@ class Lolem
     aliqua. Ut enim lol ad minim veniam, quis nostrud exercitation 
     ullamco. Lol-athon nisi ut lollergram ex ea commodo consequat. 
     Duis aute irure loller in reprehenderit in voluptate velit 
-    esse cillum dololler eu fugiat nulla pariatur. Lolburger sint 
+    esse cillum dololler eu fugiat nulla lolleriffic. Lolburger sint 
     occaecat cupidatat non proident, sunt in lolcano qui officia 
     deserunt mollit lolz anim id est laborum.
   END
